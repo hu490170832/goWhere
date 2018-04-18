@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    hello wrold
+    hello wr old
   </div>
 </template>
 
